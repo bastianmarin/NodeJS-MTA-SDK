@@ -1,0 +1,26 @@
+{
+    "name": "@iroak/nodejs-mta-sdk",
+    "version": "1.0.0",
+    "description": "NodeJS MTA SDK for MTA:SA",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/bastianmarin/nodejs-mta-sdk.git"
+    },
+    "keywords": [
+        "MTA"
+    ],
+    "author": "iroaK",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/bastianmarin/nodejs-mta-sdk/issues"
+    },
+    "homepage": "https://github.com/bastianmarin/nodejs-mta-sdk#readme",
+    "dependencies": {},
+    "publishConfig": {
+        "access": "public"
+    }
+}
