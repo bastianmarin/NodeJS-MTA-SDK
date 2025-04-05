@@ -19,7 +19,9 @@
         "url": "https://github.com/bastianmarin/nodejs-mta-sdk/issues"
     },
     "homepage": "https://github.com/bastianmarin/nodejs-mta-sdk#readme",
-    "dependencies": {},
+    "dependencies": {
+        "axios": "^1.8.4"
+    },
     "publishConfig": {
         "access": "public"
     }
